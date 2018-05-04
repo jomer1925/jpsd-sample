@@ -66,7 +66,7 @@
             <div class="animated">
                 <div class="card">
                     <div class="card-header">
-                        <strong class="card-title">Data Table</strong>
+                        <strong class="card-title">Data Tables</strong>
                     </div>
                     <div class="card-body">
                         
